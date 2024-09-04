@@ -31,7 +31,7 @@ This notebook implements **4 different CNN models** that classify the Arabic han
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Handwritten-Character-Recognition.git
+   git clone https://github.com/faris771/Handwritten_Charactar_Recognition
 
 
 
