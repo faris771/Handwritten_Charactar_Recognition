@@ -11,8 +11,10 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 - [References](#references)
 
 ## Project Overview
-This project focuses on handwritten character recognition using deep learning techniques, specifically convolutional neural networks. The model's architecture was customized to improve classification accuracy, with results compared across different architectures, including VGG and transfer learning models.
+Handwriting recognition, a **computer vision challenge**, involves identifying and converting handwritten text from documents or touchscreens into a machine-readable format. Various machine learning methods, including K-nearest neighbors, Support Vector Machines, transfer learning, and Convolutional Neural Networks (CNN), are explored for automatic handwritten recognition.
+Each language's handwritten text exhibits diverse patterns influenced by factors such as age, background, and native language. Arabic script, with its semi-cursive style and right-to-left writing, presents additional challenges due to multiple character shapes based on position within a word. Consequently, recognizing Arabic script is more complex than in other languages.
 
+This notebook implements **4 different CNN models** that classify the Arabic handwritten characters using  **AHCD dataset**.  
 ## Features
 - Customized CNN architecture for high-accuracy recognition
 - VGG-based architecture for complex feature extraction
