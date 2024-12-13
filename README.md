@@ -33,6 +33,8 @@ This notebook implements **4 different CNN models** that classify the Arabic han
    ```bash
    git clone https://github.com/faris771/Handwritten_Charactar_Recognition
 
+## Run
+In order to run the code you need to use Google Colab, and upload the zipped Dataset file, and run all the cells :)
 
 
 ## Conclusion
