@@ -44,3 +44,7 @@ In summary, the customized model excelled in both Task #1 (96.40%) and Task #2 (
 ## References
 1. [Arabic Handwritten Character Recognition Using Convolutional Neural Networks](https://10.21203/rs.3.rs-3141935/v1)
 2. [Classification of Russian Handwritten Letters on Kaggle](https://www.kaggle.com/code/bryanb/cnn-for-handwritten-letters-classification/notebook)
+
+## Contributors
+1. [Aseel Deek](https://github.com/aseeldeek)
+2. [Faris Abu Farha](https://github.com/faris771)
